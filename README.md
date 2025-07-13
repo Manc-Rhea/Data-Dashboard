@@ -1,4 +1,4 @@
-## Data-Dashboard ##
+# Data-Dashboard #
 
 This is a web application that shows business data in form of charts and tables.
 It helps you understand the customer and revenue trends through interactive visuals.
@@ -17,7 +17,7 @@ JSON Files -->for Data
 
 ## To run the project- ##
 
- # 1.Start the backend
+ ### 1.Start the backend
     Run commands in Bash/PowerShell-
     
     cd backend
@@ -27,7 +27,7 @@ JSON Files -->for Data
 This will start local server at- 
     http://localhost:3001/api/data
 
-# 2.Start the frontend 
+### 2.Start the frontend 
     Run commands in Bash/PowerShell(in other terminal)-
     
     cd frontend
